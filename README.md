@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# Introduction
+This project can start the camera on your device (Both PC and mobile device). You can capture your photo and this front end web application (Without a back end service) can recognize any faces on the photo and give a face expression prediction. You can upload a picture from your device as well.
+
+## Result
+
+![result](./public/result.jpg)
+
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

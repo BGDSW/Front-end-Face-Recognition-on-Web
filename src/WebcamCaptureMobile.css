@@ -1,0 +1,66 @@
+.PlaceholderMobile{
+    width:200px;
+    height:270px;
+    position:absolute;
+    left:10px;
+    top:150px;
+}
+
+.webcam-videoMobile {
+    width: 200px;
+    height: auto;
+    position:absolute;
+    left:10px;
+    top:150px;
+}
+
+.ProcessedImageMobile {
+    width:200px;
+    height:270px;
+    position:absolute;
+    left:240px;
+    right:10px;
+    top:150px;
+}
+
+.CanvasMobile{
+    width:200px;
+    height:270px;
+    position:absolute;
+    left:240px;
+    right:10px;
+    top:150px;
+}
+
+.CamButton1Mobile{
+    width:120px;
+    height:30px;
+    position:absolute;
+    left:50px;
+    top:500px;
+}
+
+.CamButton2Mobile{
+    width:120px;
+    height:30px;
+    position:absolute;
+    left:50px;
+    top:500px;
+}
+
+.CapButtonMobile{
+    width:120px;
+    height:30px;
+    position:absolute;
+    left:270px;
+    top:500px;
+}
+
+.UploadImgMobile{
+    width:200px;
+    height:30px;
+    position:absolute;
+    left:150px;
+    top:560px;
+}
+

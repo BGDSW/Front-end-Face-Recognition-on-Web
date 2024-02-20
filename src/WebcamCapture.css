@@ -1,0 +1,64 @@
+.Placeholder{
+    width:640px;
+    height:480px;
+    position:absolute;
+    left:170px;
+    top:150px;
+}
+
+.webcam-video {
+    width: 640px;
+    height: auto;
+    position:absolute;
+    left:170px;
+    top:150px;
+}
+
+.ProcessedImage {
+    width:640px;
+    height:480px;
+    position:absolute;
+    left:870px;
+    top:150px;
+}
+
+.Canvas{
+    width:640px;
+    height:480px;
+    position:absolute;
+    left:870px;
+    top:150px;
+}
+
+.CamButton1{
+    width:120px;
+    height:30px;
+    position:absolute;
+    left:680px;
+    top:700px;
+}
+
+.CamButton2{
+    width:120px;
+    height:30px;
+    position:absolute;
+    left:780px;
+    top:700px;
+}
+
+.CapButton{
+    width:120px;
+    height:30px;
+    position:absolute;
+    left:880px;
+    top:700px;
+}
+
+.UploadImg{
+    width:120px;
+    height:30px;
+    position:absolute;
+    left:800px;
+    top:780px;
+}
+
