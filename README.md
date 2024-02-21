@@ -21,6 +21,8 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+You may need `set HTTPS=true&&npm start` to enable HTTPS service so that you can access using mobile device.
+
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
